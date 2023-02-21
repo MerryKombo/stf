@@ -149,7 +149,7 @@
     "script-loader": "^0.7.0",
     "sinon": "^1.17.2",
     "sinon-chai": "^2.7.0",
-    "socket.io-client": "1.4.8",
+    "socket.io-client": "4.6.1",
     "style-loader": "^0.23.1",
     "template-html-loader": "^0.0.4",
     "then-jade": "^2.4.1",
